@@ -1,0 +1,26 @@
+* Icons for:
+
+** Text editing
+
+*** Person
+*** Place
+*** Thing
+
+** Album tree
+*** Directory
+*** System
+**** Person
+**** Place
+**** Thing
+**** Event
+**** Filesystem
+
+** Image Tree
+
+
+gtk-directory
+CD-Rom
+Floppy
+Harddisk
+Network
+

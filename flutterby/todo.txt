@@ -1,0 +1,39 @@
+* Move
+** Contact Jeanne
+** contact Eric
+** Get moving guide and look at buying boxes
+** "Cool" essay research
+** Catherine's signature on the canoe
+
+
+* Photo Manager
+** Marketing
+*** Contacted mkelley@mkelley.net
+*** Contacted Bill Polson re: Randy Nelson and Pixar's needs
+
+** Testing
+*** Diane Reese (mailed)
+*** John Anderson (mailed)
+*** Meuon
+*** Topspin
+
+** Development
+*** Utility
+**** Migration to and from SQLite
+**** Migration between versions of SQLite
+**** Drag-and-drop on Windows
+**** Windows deployment
+**** Optimal update of hypertext links
+*** Functionality
+**** New map
+**** Drag-and-drop onto map
+**** Better collections for image browser, including d-n-d
+**** New comment for group of images
+**** Context and grouping for hypertext entry
+**** Timeline
+**** Drag-and-drop from map
+**** Publish - a very big deal
+**** GUIDs
+
+
+
